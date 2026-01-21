@@ -6,8 +6,8 @@ analog systems.
 
 ## Status
 - Manuscript submitted to *Classical and Quantum Gravity* (IOP)
-- Manuscript ID: CQG-114756
-- Submission date: 10 Jan 2026
+- 
+- 
 - Current status: Under editorial consideration
 
 ## Scope of this repository
