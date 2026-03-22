@@ -5,10 +5,10 @@ connecting black-hole thermodynamics, information flow, and Josephson junction
 analog systems.
 
 ## Status
-- Manuscript submitted to *Classical and Quantum Gravity* (IOP)
 - 
 - 
-- Current status: Under editorial consideration
+- 
+- 
 
 ## Scope of this repository
 - Conceptual summaries (non-identical to the submitted manuscript)
